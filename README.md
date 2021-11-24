@@ -1,7 +1,8 @@
-### Hi there 👋
+### Working on Darkly Projects 🌑 to turn on the light...
 
 <!--
-**MrDanielBang/MrDanielBang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DxBang/DxBang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
